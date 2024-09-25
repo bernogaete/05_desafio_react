@@ -1,8 +1,8 @@
-﻿# 04_desafio_react
+﻿# 05_desafio_react
 # React + Vite
 
 
-- Se consume una API con un backend entregado por desafioLatam# mama_mia_hito4.
+- Se consume una API con un backend entregado por desafioLatam# mama_mia_hito5.
 
 -Pasos para correr la App
 <hr>
